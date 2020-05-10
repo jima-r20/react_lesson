@@ -47,7 +47,7 @@ class EventsIndex extends Component {
         <Table>
           <TableHeader
             displaySelectAll={false}
-            adjustForCheckBox={false}
+            adjustForCheckbox={false}
           >
             <TableRow>
               <TableHeaderColumn>ID</TableHeaderColumn>
